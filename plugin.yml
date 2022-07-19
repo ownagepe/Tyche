@@ -1,0 +1,14 @@
+---
+name: Tyche
+version: 0.0.1
+main: CJMustard1452\Tyche\Main
+api: 3.29.0
+
+commands:
+  tyche:
+    permission: tyche.admin
+
+permissions:
+  Tyche:
+    default: op
+...
